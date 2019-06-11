@@ -1,0 +1,9 @@
+---
+title: ggplot
+author: Lorna
+date: '2019-06-11'
+slug: ggplot
+categories:
+  - R
+tags: []
+---

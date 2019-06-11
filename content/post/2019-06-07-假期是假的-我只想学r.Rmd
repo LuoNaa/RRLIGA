@@ -1,0 +1,9 @@
+---
+title: 假期是假的，我只想学R
+author: Lorna
+date: '2019-06-07'
+slug: 假期是假的-我只想学r
+categories:
+  - R
+tags: []
+---
